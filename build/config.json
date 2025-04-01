@@ -1,0 +1,5 @@
+{
+    "cliPath": "/opt/homebrew/bin/op",
+    "defaultAccount": "team-name.1password.com",
+    "cacheTTL": 3600
+}

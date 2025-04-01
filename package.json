@@ -1,0 +1,26 @@
+{
+  "name": "yaak-plugin-1password",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "build": "yaakcli build ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.17",
+    "@yaakapp/cli": "^0.1.2",
+    "typescript": "^5.8.2",
+    "vitest": "^3.1.1"
+  },
+  "dependencies": {
+    "@1password/op-js": "^0.1.13",
+    "@yaakapp/api": "^0.5.0",
+    "node-cache": "^5.1.2"
+  },
+  "packageManager": "pnpm@10.6.5+sha512.cdf928fca20832cd59ec53826492b7dc25dc524d4370b6b4adbf65803d32efaa6c1c88147c0ae4e8d579a6c9eec715757b50d4fa35eea179d868eada4ed043af",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@yaakapp/cli",
+      "esbuild"
+    ]
+  }
+}
