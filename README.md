@@ -5,8 +5,8 @@ This is a port of [1Password CLI Plugin for Insomnia](https://github.com/benvp/i
 ## Getting started
 
 * Install the [1Password CLI](https://developer.1password.com/docs/cli/).
-* Clone this repo locally
-* Modify the `config.json` file in the `build` directory as appropriate (see: [#Config])
+* Clone this repo locally or download latest Release archive
+* Modify the `config.json` file in the `build` directory as appropriate (see: [Config](#Config))
 * Install the plugin
   * Yaak > Settings > Plugins
   * Click 'Select Plugin', and open the location of the cloned repository
