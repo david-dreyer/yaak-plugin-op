@@ -1,6 +1,7 @@
 {
-  "name": "yaak-plugin-op",
-  "private": true,
+  "name": "@david-dreyer/yaak-plugin-op",
+  "repository": "https://github.com/david-dreyer/yaak-plugin-op",
+  "private": false,
   "version": "0.0.1",
   "scripts": {
     "build": "yaakcli build ./src/index.ts"
