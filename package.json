@@ -4,7 +4,7 @@
   "description": "Yaak plugin for retrieving passwords from 1Password",
   "repository": "https://github.com/david-dreyer/yaak-plugin-op",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "build": "yaakcli build ./src/index.ts"
   },
