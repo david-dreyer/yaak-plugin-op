@@ -1,5 +1,7 @@
 {
   "name": "@david-dreyer/yaak-plugin-op",
+  "displayName": "1Password",
+  "description": "Yaak plugin for retrieving passwords from 1Password",
   "repository": "https://github.com/david-dreyer/yaak-plugin-op",
   "private": false,
   "version": "0.0.1",
